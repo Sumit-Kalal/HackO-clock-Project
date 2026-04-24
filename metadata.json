@@ -1,0 +1,9 @@
+{
+  "name": "EcoGuard: Wildlife Monitoring System",
+  "description": "Professional field-ready monitoring system for forest rangers featuring AI-powered detection, live camera feeds, and automated alerts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
